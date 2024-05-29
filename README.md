@@ -1,5 +1,5 @@
 ## PESAN MAKANAN
-<img src="static/title.png" width="35%" height="35%"/>\
+<img src="static/title.png"/>
 
 ### Deskripsi
 Tugas kuliah membuat website dengan html untuk pemesanan makanan.\
